@@ -71,17 +71,17 @@ IDEs - Software suits that provide comprehensive tools for writing, debugging an
 VCS - Software tools for tracking changes to source codes and coordinating work among team members
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-  - Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
-  - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
-  - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+  Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+  Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+  Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
 Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing: Testing individual components or modules of software.
-  - Integration Testing: Testing interactions between different components or subsystems.
-  - System Testing: Testing the entire software system as a whole.
-  - Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+  Integration Testing: Testing interactions between different components or subsystems.
+  System Testing: Testing the entire software system as a whole.
+  Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 Importance of Quality Control: Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
 #Part 2: Introduction to AI and Prompt Engineering
